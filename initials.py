@@ -1,5 +1,5 @@
 #My full name
-full_name = "Stephen Michael Smith"
+full_name = "Stephen M Smith"
 
 #A fun fact about myself
 fun_fact = "I am a billionaire"
